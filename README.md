@@ -6,17 +6,24 @@ This repository is intentionally separate from the robot product and from the in
 
 ## Contents
 
-| File | Description |
+| Path | Description |
 | --- | --- |
-| [`MANIFESTO.fr.md`](./MANIFESTO.fr.md) | Manifeste (français) — état d’esprit et raison d’être |
-| [`MANIFESTO.fr.pdf`](./MANIFESTO.fr.pdf) | Version PDF du manifeste, pour diffusion |
-| `whitepaper/` | Emplacement réservé au white paper (à venir) |
+| [`manifesto/`](./manifesto/) | Manifesto in FR · EN · DE · IT · ES (Markdown + PDF) |
+| [`whitepaper/`](./whitepaper/) | Reserved for the forthcoming white paper |
+
+### Read the manifesto
+
+- **English:** [MANIFESTO.en.md](./manifesto/MANIFESTO.en.md) · [PDF](./manifesto/MANIFESTO.en.pdf)
+- **Français:** [MANIFESTO.fr.md](./manifesto/MANIFESTO.fr.md) · [PDF](./manifesto/MANIFESTO.fr.pdf)
+- **Deutsch:** [MANIFESTO.de.md](./manifesto/MANIFESTO.de.md) · [PDF](./manifesto/MANIFESTO.de.pdf)
+- **Italiano:** [MANIFESTO.it.md](./manifesto/MANIFESTO.it.md) · [PDF](./manifesto/MANIFESTO.it.pdf)
+- **Español:** [MANIFESTO.es.md](./manifesto/MANIFESTO.es.md) · [PDF](./manifesto/MANIFESTO.es.pdf)
 
 ## Related
 
-- Organisation GitHub : [Sustainable-Robotics-Base-for-Crops](https://github.com/Sustainable-Robotics-Base-for-Crops)
-- Constructeur : [SABI AGRI](https://www.sabi-agri.com)
+- Organisation GitHub: [Sustainable-Robotics-Base-for-Crops](https://github.com/Sustainable-Robotics-Base-for-Crops)
+- Manufacturer: [SABI AGRI](https://www.sabi-agri.com)
 
 ## License
 
-The manifesto is published under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. You may share and adapt it with attribution.
+Documents in this repository are published under **[CC BY 4.0](./LICENSE)**. You may share and adapt them with attribution.
