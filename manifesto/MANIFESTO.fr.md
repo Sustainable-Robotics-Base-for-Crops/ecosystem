@@ -1,12 +1,32 @@
-# Manifeste pour une robotique agricole ouverte — Sustainable Robotics Base for Crops
+# Manifeste pour une robotique agricole ouverte
+
+### Sustainable Robotics Base for Crops
+
+Auteur : Alexandre Prévault-Osmani — CTO et cofondateur de SABI AGRI
+
+---
+
+## Sommaire
+
+1. [Pourquoi ouvrir](#pourquoi-ouvrir)
+2. [Pour qui, et au service de quoi](#pour-qui-et-au-service-de-quoi)
+3. [Ce qu’est SRBC](#ce-quest-srbc)
+4. [Une conception proportionnée, modulaire, ouverte et responsable](#une-conception-proportionnée-modulaire-ouverte-et-responsable)
+5. [Ce qu’apporte l’ouverture](#ce-quapporte-louverture)
+6. [Appel](#appel)
+7. [À propos de l’auteur](#à-propos-de-lauteur)
+
+---
 
 L’écosystème de la robotique agricole a besoin d’une base commune, ouverte, frugale, sûre et documentée, capable de respecter la diversité des pratiques. C’est le sens de l’écosystème *Sustainable Robotics Base for Crops* (SRBC) : construire et partager un socle logiciel de production pour des robots agricoles autonomes, afin que la valeur créée par la technologie revienne aussi à ceux qui la font vivre — les paysans — et irrigue une filière juste, maintenable et durable.
 
-**Nous affirmons qu’une robotique agricole ouverte peut contribuer à accélérer l’adoption des pratiques agroécologiques en favorisant la diffusion d’outils efficaces, appropriables et sûrs. Les performances agronomiques, écologiques, économiques et sociales doivent devenir clairement mesurables et surtout éviter de s’opposer.**
+> **Affirmation centrale**  
+> Une robotique agricole ouverte peut contribuer à accélérer l’adoption des pratiques agroécologiques en favorisant la diffusion d’outils efficaces, appropriables et sûrs. Les performances agronomiques, écologiques, économiques et sociales doivent devenir clairement mesurables et surtout éviter de s’opposer.
 
 Nous appelons agriculteurs, développeurs, fabricants, ateliers, intégrateurs, chercheurs, coopératives et établissements d’enseignement à rejoindre cet effort : publier une interface, stabiliser un format, écrire une documentation, exécuter un essai, former un voisin. Rien n’interdit d’innover vite et bien ; tout invite à le faire ensemble.
 
-La technologie ne doit pas être une entrave. Elle doit être un pont vers la durabilité des systèmes agricoles.
+> La technologie ne doit pas être une entrave.  
+> Elle doit être un pont vers la durabilité des systèmes agricoles.
 
 ---
 
@@ -18,6 +38,8 @@ D’une part, l’obsolescence des supports matériels et logiciels n’est pas 
 
 Nous pensons que chaque exploitation doit pouvoir bénéficier des avancées technologiques sans être captive de formats fermés. Ouvrir, c’est rendre possible la réparation, l’adaptation et la transmission des connaissances au rythme des saisons et des territoires.
 
+---
+
 ## Pour qui, et au service de quoi
 
 Nous situons l’écosystème robotique SRBC au service des petites et moyennes exploitations, en particulier lorsqu’elles sont diversifiées et engagées dans des pratiques agroécologiques. Elles jouent un rôle essentiel dans l’équilibre des écosystèmes, la diversité des productions, le dynamisme des territoires et le maintien de savoir-faire contextualisés. Cependant ces exploitations sont aussi particulièrement exposées à la pénibilité des travaux physiques, au besoin de main-d’œuvre et aux barrières d’investissement.
@@ -26,15 +48,22 @@ Les pratiques agroécologiques demandent souvent davantage d’observation, de p
 
 Toute robotique ne sert pas cette ambition. Selon son architecture et son modèle économique, elle peut renforcer la concentration des moyens de production et la dépendance technologique. L’enjeu n’est donc pas d’adopter la robotique par principe, mais de déterminer au service de quels modèles agricoles elle est conçue, qui peut y accéder, qui la comprend, qui en fixe les usages, et qui en capte la valeur.
 
+---
+
 ## Ce qu’est SRBC
 
 *Sustainable Robotics Base for Crops* désigne l’écosystème public de briques logicielles développées entre autres pour le robot SRBC et, plus largement, pour une robotique agricole interopérable.
 
-Ce n’est pas une démonstration hors sol. **Une part substantielle de ce code est utilisée en production** : navigation, localisation, géorepérage, perception, simulation, format de mission et outils associés. Les dépôts sont publiés sur l’organisation GitHub [Sustainable-Robotics-Base-for-Crops](https://github.com/Sustainable-Robotics-Base-for-Crops).
+> Ce n’est pas une démonstration hors sol.  
+> **Une part substantielle de ce code est utilisée en production** : navigation, localisation, géorepérage, perception, simulation, format de mission et outils associés.
+
+Les dépôts sont publiés sur l’organisation GitHub [Sustainable-Robotics-Base-for-Crops](https://github.com/Sustainable-Robotics-Base-for-Crops).
 
 L’écosystème SRBC est un ensemble de packages et d’outils versionnés — principalement sous ROS 2 — conçus pour être lus, audités, réutilisés ou remplacés indépendamment. Les contrats ouverts (format de mission JSON Agri, interfaces de communication, messages de navigation) permettent à des outils tiers, des intégrateurs et des chercheurs de produire ou de consommer des missions sans dépendre des secrets d’un constructeur unique.
 
 Nous assumons une frontière claire : **l’ouverture porte d’abord sur les fondations génériques et les interfaces** ; l’intégration industrielle ainsi que la chaîne de sûreté propre à la machine restent sous la responsabilité du constructeur. Ouvrir un commun doit se faire avec une chaîne de responsabilité claire tout en rendant partageables les connaissances nécessaires à l’interopérabilité, à la maintenance et à l’innovation collective.
+
+---
 
 ## Une conception proportionnée, modulaire, ouverte et responsable
 
@@ -48,7 +77,9 @@ Nous privilégions l’**ouverture** : interfaces publiques, documentation, test
 
 Nous privilégions enfin une innovation **responsable** : anticiper les effets sociaux et environnementaux, associer les utilisateurs, documenter les limites d’emploi, maîtriser les données agricoles, et maintenir une responsabilité industrielle explicite sur chaque machine mise en service.
 
-Ces principes ne constituent pas un label. Ils constituent une exigence de cohérence : une technologie n’est utile que si elle augmente durablement la capacité des paysans à comprendre, décider et agir.
+Ces principes constituent une exigence de cohérence : une technologie n’est utile que si elle augmente durablement la capacité des paysans à comprendre, décider et agir.
+
+---
 
 ## Ce qu’apporte l’ouverture
 
@@ -58,24 +89,43 @@ Pour les paysans, l’enjeu est la souveraineté d’usage : diagnostiquer, rép
 
 Un commun technologique a besoin de documentation, de maintenance et de gouvernance. L’ouverture n’est durable que si des modèles économiques — machines, outils, services, formation — permettent aux entreprises de vivre sans recréer la captivité par d’autres moyens.
 
-Même avec un code logiciel ouvert, la sûreté, la conformité et la responsabilité restent attachées à chaque configuration mise en service. Une fonction autonome n’a de sens que dans un domaine d’emploi explicite, avec des comportements prévisibles hors domaine et des preuves d’arrêt sûr. Nous refusons l’opposition naïve entre ouverture et industrialisation : industrialiser, c’est aussi rendre reproductibles la qualité, la maintenance, l’interopérabilité et la sûreté.
+Même avec un code logiciel ouvert, la sûreté, la conformité et la responsabilité restent attachées à chaque configuration mise en service. Une fonction autonome n’a de sens que dans un domaine d’emploi explicite, avec des comportements prévisibles hors domaine et des preuves d’arrêt sûr.
+
+> Nous refusons l’opposition naïve entre ouverture et industrialisation.  
+> Industrialiser, c’est aussi rendre reproductibles la qualité, la maintenance, l’interopérabilité et la sûreté.
+
+---
 
 ## Appel
 
 La diffusion d’une robotique agricole au service de l’agroécologie se construit avec et chez les utilisateurs, de concert avec les constructeurs et les communautés techniques.
 
-Chacun et chacune peut contribuer selon ses compétences : publier une interface, documenter une procédure, proposer un outil compatible, améliorer une brique, accueillir une expérimentation, former un voisin, partager des retours d’usage accompagnés de leurs limites.
+Chacun et chacune peut contribuer selon ses compétences :
 
-**Ouvrir la robotique agricole, c’est refuser qu’elle devienne un instrument de dépendance. C’est donner au monde agricole les moyens de participer à sa conception, d’en maîtriser les usages et d’en transmettre les connaissances.**
+- publier une interface
+- documenter une procédure
+- proposer un outil compatible
+- améliorer une brique
+- accueillir une expérimentation
+- former un voisin
+- partager des retours d’usage accompagnés de leurs limites
 
-Rejoignez l’écosystème : [github.com/Sustainable-Robotics-Base-for-Crops](https://github.com/Sustainable-Robotics-Base-for-Crops)
+> **Ouvrir la robotique agricole, c’est refuser qu’elle devienne un instrument de dépendance.**  
+> C’est donner au monde agricole les moyens de participer à sa conception, d’en maîtriser les usages et d’en transmettre les connaissances.
+
+**Rejoindre l’écosystème**  
+[github.com/Sustainable-Robotics-Base-for-Crops](https://github.com/Sustainable-Robotics-Base-for-Crops)
 
 ---
 
 ## À propos de l’auteur
 
-**Auteur : Alexandre Prévault-Osmani — CTO et cofondateur de SABI AGRI.**
+**Alexandre Prévault-Osmani**  
+CTO et cofondateur de SABI AGRI
 
 Depuis 2015, Alexandre Prévault-Osmani travaille à l’intersection de l’électrification, de la robotique agricole, de l’Open Source et de l’agroécologie. Il développe une approche industrielle visant à rendre les technologies agricoles accessibles, interopérables, maintenables et appropriables par le monde paysan.
 
-[GitHub](https://github.com/Alexandre-PO) · [LinkedIn](https://www.linkedin.com/in/alexandre-po)
+**Contact**
+
+- GitHub : [Alexandre-PO](https://github.com/Alexandre-PO)
+- LinkedIn : [alexandre-po](https://www.linkedin.com/in/alexandre-po)
