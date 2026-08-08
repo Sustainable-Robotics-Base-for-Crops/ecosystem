@@ -2,7 +2,7 @@
 
 Die Agrarrobotik braucht eine gemeinsame Basis, die offen, sparsam, sicher und dokumentiert ist und die Vielfalt der Praktiken respektieren kann. Das ist der Sinn von *Sustainable Robotics Base for Crops* (SRBC): eine produktive Softwaregrundlage für autonome Agrarroboter zu schaffen und zu teilen, damit der durch Technologie geschaffene Wert auch zu denen zurückkehrt, die sie lebendig machen — den Landwirtinnen und Landwirten — und eine gerechte, wartbare und dauerhafte Wertschöpfungskette speist.
 
-**Wir bekräftigen, dass eine offene Agrarrobotik die Verbreitung agroökologischer Praktiken beschleunigen kann, indem sie die Diffusion aneignungsfähiger, wirksamer und sicherer Werkzeuge ermöglicht. Agronomische, ökologische, wirtschaftliche und soziale Leistung müssen klar messbar werden — und dürfen sich nicht länger gegenseitig ausschließen.**
+**Wir bekräftigen, dass eine offene Agrarrobotik dazu beitragen kann, die Verbreitung agroökologischer Praktiken zu beschleunigen, indem sie die Verbreitung wirksamer, aneignungsfähiger und sicherer Werkzeuge fördert. Agronomische, ökologische, wirtschaftliche und soziale Leistungen müssen klar messbar werden — und dürfen sich nicht länger gegenseitig ausschließen.**
 
 Wir rufen Landwirtinnen und Landwirte, Entwicklerinnen und Entwickler, Hersteller, Werkstätten, Integratoren, Forschende, Genossenschaften und Bildungseinrichtungen auf, sich diesem Einsatz anzuschließen: eine Schnittstelle veröffentlichen, ein Format stabilisieren, Dokumentation schreiben, einen Versuch durchführen, eine Nachbarin oder einen Nachbarn schulen. Nichts hindert daran, schnell und gut zu innovieren; alles lädt dazu ein, es gemeinsam zu tun.
 
@@ -20,9 +20,9 @@ Wir sind der Ansicht, dass jeder Betrieb von technologischen Fortschritten profi
 
 ## Für wen, und im Dienst wovon
 
-Wir stellen das robotische Ökosystem SRBC in den Dienst kleiner und mittlerer Betriebe, insbesondere wenn sie diversifiziert und in agroökologischen Praktiken engagiert sind. Sie spielen eine wesentliche Rolle für das ökologische Gleichgewicht, die Produktionsvielfalt, die Dynamik der Territorien und den Erhalt kontextbezogenen Wissens. Zugleich sind diese Betriebe besonders den Arbeitskosten, der körperlichen Belastung und Investitionsbarrieren ausgesetzt.
+Wir stellen das robotische Ökosystem SRBC in den Dienst kleiner und mittlerer Betriebe, insbesondere wenn sie diversifiziert und in agroökologischen Praktiken engagiert sind. Sie spielen eine wesentliche Rolle für das ökologische Gleichgewicht, die Produktionsvielfalt, die Dynamik der Territorien und den Erhalt kontextbezogenen Wissens. Zugleich sind diese Betriebe besonders der körperlichen Belastung, dem Arbeitskräftebedarf und Investitionsbarrieren ausgesetzt.
 
-Agroökologische Praktiken erfordern oft mehr Beobachtung, mehr Präzision und mehr Sorgfalt für Böden und lebendige Systeme. Robotik kann dazu beitragen, diese Praktiken wirtschaftlich zugänglich zu machen: nicht indem sie die bäuerliche Entscheidung ersetzt, sondern indem sie die Belastung verringert und Operationen ermöglicht, die Kulturen, Böden und Ökosystemen zugutekommen.
+Agroökologische Praktiken erfordern oft mehr Beobachtung, mehr Präzision und mehr Sorgfalt für Böden und lebendige Systeme. Robotik kann dazu beitragen, diese Praktiken wirtschaftlich zugänglich zu machen, indem sie die Belastung verringert und Operationen ermöglicht, die Kulturen, Böden und Ökosystemen zugutekommen. Die bäuerliche Entscheidung kann dann ihre volle Bedeutung für das Management der Ökosysteme entfalten.
 
 Nicht jede Robotik dient diesem Anspruch. Je nach Architektur und Geschäftsmodell kann sie die Konzentration der Produktionsmittel und die technologische Abhängigkeit verstärken. Es geht also nicht darum, Robotik aus Prinzip zu übernehmen, sondern zu klären, welchen landwirtschaftlichen Modellen sie dient, wer Zugang hat, wer sie versteht, wer ihre Nutzungen festlegt und wer den geschaffenen Wert aneignet.
 
@@ -34,7 +34,7 @@ Das ist keine Demonstration abseits der Praxis. **Ein wesentlicher Teil dieses C
 
 Das SRBC-Ökosystem ist eine Menge versionierter Pakete und Werkzeuge — vorwiegend unter ROS 2 —, die gelesen, geprüft, wiederverwendet oder unabhängig ersetzt werden können. Offene Verträge (Missionsformat JSON Agri, Kommunikationsschnittstellen, Navigationsnachrichten) ermöglichen es Drittanbieter-Werkzeugen, Integratoren und Forschenden, Missionen zu erzeugen oder zu nutzen, ohne von den Geheimnissen eines einzelnen Herstellers abhängig zu sein.
 
-Wir ziehen eine klare Grenze: **Die Öffnung betrifft zuerst die generischen Grundlagen und Schnittstellen**; die industrielle Integration sowie die maschinenspezifische Sicherheitskette bleiben in der Verantwortung des Herstellers. Ein Commons zu öffnen heißt nicht, Verantwortung zu verwässern. Es heißt, das für Interoperabilität, Wartung und kollektive Innovation notwendige Wissen teilbar zu machen.
+Wir ziehen eine klare Grenze: **Die Öffnung betrifft zuerst die generischen Grundlagen und Schnittstellen**; die industrielle Integration sowie die maschinenspezifische Sicherheitskette bleiben in der Verantwortung des Herstellers. Die Öffnung eines Commons muss mit einer klaren Verantwortungskette einhergehen und zugleich das für Interoperabilität, Wartung und kollektive Innovation notwendige Wissen teilbar machen.
 
 ## Eine proportionierte, modulare, offene und verantwortungsvolle Gestaltung
 
@@ -50,7 +50,7 @@ Wir bevorzugen schließlich eine **verantwortungsvolle** Innovation: soziale und
 
 Diese Prinzipien sind kein Label. Sie sind eine Anforderung an Kohärenz: Eine Technologie ist nur dann nützlich, wenn sie dauerhaft die Fähigkeit der Landwirtinnen und Landwirte stärkt zu verstehen, zu entscheiden und zu handeln.
 
-## Was Offenheit verändert — und was nicht
+## Was Offenheit ermöglicht
 
 In einem fragmentierten Sektor wird zu viel Energie darauf verwendet, dieselben Grundlagen erneut zu implementieren. Diese Bausteine zu teilen zerstört die industrielle Tätigkeit nicht: **sie verlagert sie**.
 
@@ -72,4 +72,10 @@ Treten Sie dem Ökosystem bei: [github.com/Sustainable-Robotics-Base-for-Crops](
 
 ---
 
-*Dieses Manifest bringt den Geist des SRBC-Ökosystems zum Ausdruck. Eine ausführlichere Entwurfsdoktrin sowie die zugehörigen Bewertungs- und Diffusionsmethoden werden später veröffentlicht.*
+## Über den Autor
+
+**Autor: Alexandre Prévault-Osmani — CTO und Mitgründer von SABI AGRI.**
+
+Seit 2015 arbeitet Alexandre Prévault-Osmani an der Schnittstelle von Elektrifizierung, Agrarrobotik, Open Source und Agroökologie. Er entwickelt einen industriellen Ansatz mit dem Ziel, landwirtschaftliche Technologien für die bäuerliche Welt zugänglich, interoperabel, wartbar und aneignungsfähig zu machen.
+
+[GitHub](https://github.com/Alexandre-PO) · [LinkedIn](https://www.linkedin.com/in/alexandre-po)

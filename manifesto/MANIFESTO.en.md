@@ -2,7 +2,7 @@
 
 Agricultural robotics needs a shared base that is open, lean, safe, and documented — one that can respect the diversity of farming practices. That is the purpose of *Sustainable Robotics Base for Crops* (SRBC): to build and share a production software foundation for autonomous agricultural robots, so that the value created by technology also returns to those who make it live — farmers — and strengthens a fair, maintainable, and durable supply chain.
 
-**We affirm that open agricultural robotics can accelerate the adoption of agroecological practices by enabling the diffusion of tools that are appropriable, effective, and safe. Agronomic, ecological, economic, and social performance must become clearly measurable — and must stop being set against each other.**
+**We affirm that open agricultural robotics can help accelerate the adoption of agroecological practices by fostering the diffusion of effective, appropriable, and safe tools. Agronomic, ecological, economic, and social performance must become clearly measurable — and must stop being set against each other.**
 
 We call on farmers, developers, manufacturers, workshops, integrators, researchers, cooperatives, and educational institutions to join this effort: publish an interface, stabilize a format, write documentation, run a trial, train a neighbour. Nothing prevents us from innovating quickly and well; everything invites us to do it together.
 
@@ -20,9 +20,9 @@ We believe every farm should be able to benefit from technological advances with
 
 ## For whom, and in the service of what
 
-We situate the SRBC robotics ecosystem in the service of small and medium-sized farms, especially when they are diversified and engaged in agroecological practices. They play an essential role in ecosystem balance, the diversity of production, the vitality of territories, and the preservation of contextual know-how. Yet these farms are also particularly exposed to labour costs, the hardship of physical work, and barriers to investment.
+We situate the SRBC robotics ecosystem in the service of small and medium-sized farms, especially when they are diversified and engaged in agroecological practices. They play an essential role in ecosystem balance, the diversity of production, the vitality of territories, and the preservation of contextual know-how. Yet these farms are also particularly exposed to the hardship of physical work, labour needs, and barriers to investment.
 
-Agroecological practices often require more observation, more precision, and more care for soils and living systems. Robotics can help make these practices economically accessible: not by replacing farmers’ decision-making, but by reducing hardship and making operations favourable to crops, soils, and ecosystems feasible.
+Agroecological practices often require more observation, more precision, and more care for soils and living systems. Robotics can help make these practices economically accessible by reducing hardship and making operations favourable to crops, soils, and ecosystems feasible. Farmers’ decisions can then take on their full importance in ecosystem management.
 
 Not every form of robotics serves this ambition. Depending on its architecture and business model, it can reinforce the concentration of means of production and technological dependency. The issue is therefore not to adopt robotics as a matter of principle, but to determine which agricultural models it is designed to serve, who can access it, who understands it, who sets its uses, and who captures the value it creates.
 
@@ -34,7 +34,7 @@ This is not a demonstration detached from the field. **A substantial part of thi
 
 The SRBC ecosystem is a set of versioned packages and tools — mainly under ROS 2 — designed to be read, audited, reused, or replaced independently. Open contracts (the JSON Agri mission format, communication interfaces, navigation messages) allow third-party tools, integrators, and researchers to produce or consume missions without depending on the secrets of a single manufacturer.
 
-We assume a clear boundary: **openness primarily covers generic foundations and interfaces**; industrial integration and the machine’s own safety chain remain the manufacturer’s responsibility. Opening a commons does not mean diluting responsibility. It means making shareable the knowledge needed for interoperability, maintenance, and collective innovation.
+We assume a clear boundary: **openness primarily covers generic foundations and interfaces**; industrial integration and the machine’s own safety chain remain the manufacturer’s responsibility. Opening a commons must go hand in hand with a clear chain of responsibility, while making shareable the knowledge needed for interoperability, maintenance, and collective innovation.
 
 ## Proportionate, modular, open, and responsible design
 
@@ -50,7 +50,7 @@ We finally favour **responsible** innovation: anticipating social and environmen
 
 These principles are not a label. They are a requirement of coherence: a technology is useful only if it durably increases farmers’ capacity to understand, decide, and act.
 
-## What openness changes — and what it does not
+## What openness brings
 
 In a fragmented sector, too much energy is spent re-implementing the same foundations. Pooling these building blocks does not destroy industrial activity: **it relocates it**.
 
@@ -72,4 +72,10 @@ Join the ecosystem: [github.com/Sustainable-Robotics-Base-for-Crops](https://git
 
 ---
 
-*This manifesto expresses the spirit of the SRBC ecosystem. A more detailed design doctrine, together with associated evaluation and diffusion methods, will be published later.*
+## About the author
+
+**Author: Alexandre Prévault-Osmani — CTO and co-founder of SABI AGRI.**
+
+Since 2015, Alexandre Prévault-Osmani has worked at the intersection of electrification, agricultural robotics, open source, and agroecology. He develops an industrial approach aimed at making agricultural technologies accessible, interoperable, maintainable, and appropriable by the farming world.
+
+[GitHub](https://github.com/Alexandre-PO) · [LinkedIn](https://www.linkedin.com/in/alexandre-po)

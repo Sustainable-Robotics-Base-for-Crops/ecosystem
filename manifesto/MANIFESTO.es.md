@@ -2,7 +2,7 @@
 
 El ecosistema de la robótica agrícola necesita una base común, abierta, sobria, segura y documentada, capaz de respetar la diversidad de las prácticas. Ese es el sentido de *Sustainable Robotics Base for Crops* (SRBC): construir y compartir un fundamento de software de producción para robots agrícolas autónomos, a fin de que el valor creado por la tecnología vuelva también a quienes la hacen vivir — las campesinas y los campesinos — e irrigue una cadena justa, mantenible y duradera.
 
-**Afirmamos que una robótica agrícola abierta puede acelerar la adopción de las prácticas agroecológicas al hacer posible la difusión de herramientas apropiables, eficaces y seguras. El rendimiento agronómico, ecológico, económico y social debe volverse claramente medible y, sobre todo, dejar de oponerse.**
+**Afirmamos que una robótica agrícola abierta puede contribuir a acelerar la adopción de las prácticas agroecológicas favoreciendo la difusión de herramientas eficaces, apropiables y seguras. Los rendimientos agronómicos, ecológicos, económicos y sociales deben volverse claramente medibles y, sobre todo, dejar de oponerse.**
 
 Llamamos a agricultoras y agricultores, desarrolladores, fabricantes, talleres, integradores, investigadores, cooperativas y centros de formación a unirse a este esfuerzo: publicar una interfaz, estabilizar un formato, escribir documentación, ejecutar un ensayo, formar a un vecino. Nada impide innovar rápido y bien; todo invita a hacerlo juntos.
 
@@ -20,9 +20,9 @@ Pensamos que cada explotación debe poder beneficiarse de los avances tecnológi
 
 ## Para quién, y al servicio de qué
 
-Situamos el ecosistema robótico SRBC al servicio de las pequeñas y medianas explotaciones, en particular cuando están diversificadas y comprometidas con prácticas agroecológicas. Desempeñan un papel esencial en el equilibrio de los ecosistemas, la diversidad de las producciones, el dinamismo de los territorios y el mantenimiento de saberes contextualizados. Sin embargo, estas explotaciones también están particularmente expuestas al coste del trabajo, a la penosidad de las labores físicas y a las barreras de inversión.
+Situamos el ecosistema robótico SRBC al servicio de las pequeñas y medianas explotaciones, en particular cuando están diversificadas y comprometidas con prácticas agroecológicas. Desempeñan un papel esencial en el equilibrio de los ecosistemas, la diversidad de las producciones, el dinamismo de los territorios y el mantenimiento de saberes contextualizados. Sin embargo, estas explotaciones también están particularmente expuestas a la penosidad de las labores físicas, a las necesidades de mano de obra y a las barreras de inversión.
 
-Las prácticas agroecológicas suelen exigir más observación, más precisión y más cuidado del suelo y de lo vivo. La robótica puede contribuir a hacer estas prácticas económicamente accesibles: no sustituyendo la decisión campesina, sino reduciendo la penosidad y haciendo realizables operaciones favorables a los cultivos, a los suelos y a los ecosistemas.
+Las prácticas agroecológicas suelen exigir más observación, más precisión y más cuidado del suelo y de lo vivo. La robótica puede contribuir a hacer estas prácticas económicamente accesibles reduciendo la penosidad y haciendo realizables operaciones favorables a los cultivos, a los suelos y a los ecosistemas. La decisión campesina puede entonces adquirir toda su importancia en la gestión de los ecosistemas.
 
 No toda robótica sirve a esta ambición. Según su arquitectura y su modelo económico, puede reforzar la concentración de los medios de producción y la dependencia tecnológica. El reto no es, por tanto, adoptar la robótica por principio, sino determinar al servicio de qué modelos agrícolas se concibe, quién puede acceder a ella, quién la comprende, quién fija sus usos y quién capta el valor que genera.
 
@@ -34,7 +34,7 @@ No es una demostración al margen del campo. **Una parte sustancial de este cód
 
 El ecosistema SRBC es un conjunto de paquetes y herramientas versionados — principalmente bajo ROS 2 — concebidos para ser leídos, auditados, reutilizados o sustituidos de forma independiente. Los contratos abiertos (formato de misión JSON Agri, interfaces de comunicación, mensajes de navegación) permiten a herramientas de terceros, integradores e investigadores producir o consumir misiones sin depender de los secretos de un único fabricante.
 
-Asumimos una frontera clara: **la apertura se centra primero en los fundamentos genéricos y las interfaces**; la integración industrial y la cadena de seguridad propia de la máquina siguen bajo la responsabilidad del fabricante. Abrir un común no significa diluir la responsabilidad. Significa hacer compartibles los conocimientos necesarios para la interoperabilidad, el mantenimiento y la innovación colectiva.
+Asumimos una frontera clara: **la apertura se centra primero en los fundamentos genéricos y las interfaces**; la integración industrial y la cadena de seguridad propia de la máquina siguen bajo la responsabilidad del fabricante. Abrir un común debe acompañarse de una cadena de responsabilidad clara, haciendo al mismo tiempo compartibles los conocimientos necesarios para la interoperabilidad, el mantenimiento y la innovación colectiva.
 
 ## Un diseño proporcionado, modular, abierto y responsable
 
@@ -50,7 +50,7 @@ Privilegiamos, por último, una innovación **responsable**: anticipar los efect
 
 Estos principios no constituyen una etiqueta. Constituyen una exigencia de coherencia: una tecnología solo es útil si aumenta de forma duradera la capacidad de las campesinas y los campesinos para comprender, decidir y actuar.
 
-## Lo que cambia — y lo que no cambia — la apertura
+## Lo que aporta la apertura
 
 En un sector fragmentado, se dedica demasiada energía a reimplementar los mismos fundamentos. Mutualizar estos ladrillos no destruye la actividad industrial: **la desplaza**.
 
@@ -72,4 +72,10 @@ Cada cual puede contribuir según sus competencias: publicar una interfaz, docum
 
 ---
 
-*Este manifiesto expresa el espíritu del ecosistema SRBC. Una doctrina de diseño más detallada, así como los métodos de evaluación y difusión asociados, se publicarán posteriormente.*
+## Sobre el autor
+
+**Autor: Alexandre Prévault-Osmani — CTO y cofundador de SABI AGRI.**
+
+Desde 2015, Alexandre Prévault-Osmani trabaja en la intersección de la electrificación, la robótica agrícola, el open source y la agroecología. Desarrolla un enfoque industrial orientado a hacer que las tecnologías agrícolas sean accesibles, interoperables, mantenibles y apropiables por el mundo campesino.
+
+[GitHub](https://github.com/Alexandre-PO) · [LinkedIn](https://www.linkedin.com/in/alexandre-po)
