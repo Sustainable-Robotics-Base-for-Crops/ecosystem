@@ -18,12 +18,12 @@ Auteur : Alexandre Prévault-Osmani — CTO et cofondateur de SABI AGRI
 
 ---
 
-L’écosystème de la robotique agricole a besoin d’une base commune, ouverte, frugale, sûre et documentée, capable de respecter la diversité des pratiques. C’est le sens de l’écosystème *Sustainable Robotics Base for Crops* (SRBC) : construire et partager un socle logiciel de production pour des robots agricoles autonomes, afin que la valeur créée par la technologie revienne aussi à ceux qui la font vivre — les paysans — et irrigue une filière juste, maintenable et durable.
+L’écosystème de la robotique agricole a besoin d’une base commune, ouverte, frugale, sûre et documentée, capable de respecter la diversité des pratiques. C’est le sens de l’écosystème *Sustainable Robotics Base for Crops* (SRBC) : construire et partager un socle logiciel de production pour des robots agricoles autonomes, **afin que la valeur créée par la technologie revienne aussi à celles et ceux qui la font vivre — le monde paysan — et irrigue une filière juste, maintenable et durable.**
 
 > **Affirmation centrale**  
-> Une robotique agricole ouverte peut contribuer à accélérer l’adoption des pratiques agroécologiques en favorisant la diffusion d’outils efficaces, appropriables et sûrs. Les performances agronomiques, écologiques, économiques et sociales doivent devenir clairement mesurables et surtout éviter de s’opposer.
+> Une robotique agricole ouverte peut contribuer à accélérer l’adoption des pratiques agroécologiques en favorisant la diffusion d’outils efficaces, appropriables et sûrs. Les performances agronomiques, écologiques, économiques et sociales doivent devenir clairement mesurables et cela sans s’opposer les unes aux autres.
 
-Nous appelons agriculteurs, développeurs, fabricants, ateliers, intégrateurs, chercheurs, coopératives et établissements d’enseignement à rejoindre cet effort : publier une interface, stabiliser un format, écrire une documentation, exécuter un essai, former un voisin. Rien n’interdit d’innover vite et bien ; tout invite à le faire ensemble.
+Nous appelons toutes celles et tous ceux qui cultivent, développent, fabriquent, intègrent, recherchent, coopèrent ou enseignent à rejoindre cet effort : publier une interface, stabiliser un format, écrire une documentation, exécuter un essai, former un voisin. Seule une démarche collective permettra de développer et de maintenir une technologie utile et pérenne.
 
 > La technologie ne doit pas être une entrave.  
 > Elle doit être un pont vers la durabilité des systèmes agricoles.
@@ -34,17 +34,17 @@ Nous appelons agriculteurs, développeurs, fabricants, ateliers, intégrateurs, 
 
 Lorsque nous avons fait germer le projet SABI AGRI en 2015, l’objectif était déjà de diffuser des agroéquipements au service d’une agriculture plus durable et plus souveraine. Notre expérience de constructeur de machines électriques et de robots agricoles nous a confrontés à une réalité structurelle : la rapidité des cycles numériques et le caractère fermé de nombreuses solutions créent une dépendance disproportionnée pour le monde paysan.
 
-D’une part, l’obsolescence des supports matériels et logiciels n’est pas en phase avec les temps longs de l’agriculture. D’autre part, les interfaces propriétaires enferment les utilisateurs dans une relation déséquilibrée avec leurs fournisseurs, eux-mêmes dépendants des technologies de leurs propres fournisseurs. Une machine qui ne peut plus être comprise, entretenue ou adaptée finit par devenir une contrainte, même lorsqu’elle était initialement performante.
+D’une part, **l’obsolescence des supports matériels et logiciels n’est pas en phase avec les temps longs de l’agriculture.** D’autre part, les interfaces propriétaires enferment les utilisateurs dans une relation déséquilibrée avec leurs fournisseurs, eux-mêmes dépendants des technologies de leurs propres fournisseurs. Une machine qui ne peut plus être comprise, entretenue ou adaptée finit par devenir une contrainte, quelle qu’ait été sa performance initiale.
 
-Nous pensons que chaque exploitation doit pouvoir bénéficier des avancées technologiques sans être captive de formats fermés. Ouvrir, c’est rendre possible la réparation, l’adaptation et la transmission des connaissances au rythme des saisons et des territoires.
+Nous pensons que chaque exploitation doit pouvoir bénéficier des avancées technologiques sans être captive de formats fermés. **Ouvrir, c’est rendre possible la réparation, l’adaptation et la transmission des connaissances au rythme des saisons et des territoires.**
 
 ---
 
 ## Pour qui, et au service de quoi
 
-Nous situons l’écosystème robotique SRBC au service des petites et moyennes exploitations, en particulier lorsqu’elles sont diversifiées et engagées dans des pratiques agroécologiques. Elles jouent un rôle essentiel dans l’équilibre des écosystèmes, la diversité des productions, le dynamisme des territoires et le maintien de savoir-faire contextualisés. Cependant ces exploitations sont aussi particulièrement exposées à la pénibilité des travaux physiques, au besoin de main-d’œuvre et aux barrières d’investissement.
+Nous situons l’écosystème robotique SRBC **au service des petites et moyennes exploitations, en particulier lorsqu’elles sont diversifiées et engagées dans des pratiques agroécologiques**. Elles jouent un rôle essentiel dans l’équilibre des écosystèmes, la diversité des productions, le dynamisme des territoires et le maintien de savoir-faire contextualisés. Cependant ces exploitations sont aussi particulièrement exposées à la pénibilité des travaux physiques, au besoin de main-d’œuvre et aux barrières d’investissement.
 
-Les pratiques agroécologiques demandent souvent davantage d’observation, de précision et de soin apporté aux sols et au vivant. La robotique peut contribuer à rendre ces pratiques économiquement accessibles en réduisant la pénibilité et en rendant réalisables des opérations favorables aux cultures, aux sols et aux écosystèmes. La décision paysanne peut alors prendre toute son importance dans la gestion des écosystèmes.
+Les pratiques agroécologiques demandent souvent davantage d’observation, de précision et de soin apporté aux sols et au vivant. La robotique peut contribuer à rendre ces pratiques économiquement accessibles en réduisant la pénibilité et en rendant réalisables des opérations favorables aux cultures, aux sols et aux écosystèmes. Ainsi la décision paysanne peut prendre toute son importance dans la gestion des écosystèmes.
 
 Toute robotique ne sert pas cette ambition. Selon son architecture et son modèle économique, elle peut renforcer la concentration des moyens de production et la dépendance technologique. L’enjeu n’est donc pas d’adopter la robotique par principe, mais de déterminer au service de quels modèles agricoles elle est conçue, qui peut y accéder, qui la comprend, qui en fixe les usages, et qui en capte la valeur.
 
@@ -54,8 +54,7 @@ Toute robotique ne sert pas cette ambition. Selon son architecture et son modèl
 
 *Sustainable Robotics Base for Crops* désigne l’écosystème public de briques logicielles développées entre autres pour le robot SRBC et, plus largement, pour une robotique agricole interopérable.
 
-> Ce n’est pas une démonstration hors sol.  
-> **Une part substantielle de ce code est utilisée en production** : navigation, localisation, géorepérage, perception, simulation, format de mission et outils associés.
+> **Preuve de son ancrage terrain une part substantielle de ce code est utilisée en production** : navigation, localisation, géorepérage, perception, simulation, format de mission et outils associés.
 
 Les dépôts sont publiés sur l’organisation GitHub [Sustainable-Robotics-Base-for-Crops](https://github.com/Sustainable-Robotics-Base-for-Crops).
 
@@ -123,7 +122,7 @@ Chacun et chacune peut contribuer selon ses compétences :
 **Alexandre Prévault-Osmani**  
 CTO et cofondateur de SABI AGRI
 
-Depuis 2015, Alexandre Prévault-Osmani travaille à l’intersection de l’électrification, de la robotique agricole, de l’Open Source et de l’agroécologie. Il développe une approche industrielle visant à rendre les technologies agricoles accessibles, interopérables, maintenables et appropriables par le monde paysan.
+Ingénieur par son métier et paysan par son parcours, Alexandre Prévault-Osmani travaille depuis 2015 à l’intersection de l’électrification, de la robotique agricole, de l’Open Source et de l’agroécologie. Il développe une approche industrielle visant à rendre les technologies agricoles accessibles, interopérables, maintenables et appropriables par le monde paysan.
 
 **Contact**
 
