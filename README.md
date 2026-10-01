@@ -2,7 +2,7 @@
 
 Public documents that situate the SRBC software ecosystem: why it is open, who it serves, and how its technical commons relate to industrial responsibility and agroecology.
 
-This repository is intentionally separate from the robot product and from the individual ROS 2 packages. It holds the **vision and doctrine** of the ecosystem, not the runtime code.
+This repository is intentionally separate from the robot product and from the individual ROS 2 packages. It holds the **vision and doctrine** of the ecosystem.
 
 ## Contents
 
