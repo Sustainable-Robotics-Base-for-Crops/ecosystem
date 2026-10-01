@@ -9,7 +9,7 @@ This repository is intentionally separate from the robot product and from the in
 | Path | Description |
 | --- | --- |
 | [`manifesto/`](./manifesto/) | Manifesto in FR · EN · DE · IT · ES (Markdown + PDF) |
-| [`whitepaper/`](./whitepaper/) | Reserved for the forthcoming white paper |
+| [`whitepaper/`](./whitepaper/) | SMOR white paper, short version, in FR · EN · DE · IT · ES (Markdown + PDF) |
 
 ### Read the manifesto
 
@@ -18,6 +18,14 @@ This repository is intentionally separate from the robot product and from the in
 - **Deutsch:** [MANIFESTO.de.md](./manifesto/MANIFESTO.de.md) · [PDF](./manifesto/MANIFESTO.de.pdf)
 - **Italiano:** [MANIFESTO.it.md](./manifesto/MANIFESTO.it.md) · [PDF](./manifesto/MANIFESTO.it.pdf)
 - **Español:** [MANIFESTO.es.md](./manifesto/MANIFESTO.es.md) · [PDF](./manifesto/MANIFESTO.es.pdf)
+
+### Read the white paper
+
+- **English:** [WHITEPAPER-SHORT.en.md](./whitepaper/WHITEPAPER-SHORT.en.md) · [PDF](./whitepaper/WHITEPAPER-SHORT.en.pdf)
+- **Français:** [WHITEPAPER-SHORT.fr.md](./whitepaper/WHITEPAPER-SHORT.fr.md) · [PDF](./whitepaper/WHITEPAPER-SHORT.fr.pdf)
+- **Deutsch:** [WHITEPAPER-SHORT.de.md](./whitepaper/WHITEPAPER-SHORT.de.md) · [PDF](./whitepaper/WHITEPAPER-SHORT.de.pdf)
+- **Italiano:** [WHITEPAPER-SHORT.it.md](./whitepaper/WHITEPAPER-SHORT.it.md) · [PDF](./whitepaper/WHITEPAPER-SHORT.it.pdf)
+- **Español:** [WHITEPAPER-SHORT.es.md](./whitepaper/WHITEPAPER-SHORT.es.md) · [PDF](./whitepaper/WHITEPAPER-SHORT.es.pdf)
 
 ## Related
 
